@@ -1,2 +1,2 @@
-# Relógio HTML, CSS e JS
+# Relógio: HTML, CSS e JavaScript.
 Aula/Youtube
